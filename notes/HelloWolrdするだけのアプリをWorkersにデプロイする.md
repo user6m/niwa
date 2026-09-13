@@ -4,4 +4,9 @@
 - Wrangler
 
 ## 手順
-1. パッケージ
+1. `package.json` を作成する
+
+```sh
+$ pnpm init
+```
+
