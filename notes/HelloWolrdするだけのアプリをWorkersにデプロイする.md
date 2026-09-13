@@ -10,14 +10,9 @@
 $ pnpm init
 ```
 
-不要な設定を削除しておく
+2. `wrangler` を開発依存パッケージに追加する
 
-```json
-{
-	"name": "webapp-202609121700",
-	"scripts": {},
-	"license": "ISC",
-	"packageManager": "pnpm@10.33.2"
-}
+```sh
+$ pnpm add -D wrangler
 ```
 
