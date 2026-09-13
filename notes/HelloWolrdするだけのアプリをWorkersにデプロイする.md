@@ -10,3 +10,14 @@
 $ pnpm init
 ```
 
+不要な設定を削除しておく
+
+```json
+{
+	"name": "webapp-202609121700",
+	"scripts": {},
+	"license": "ISC",
+	"packageManager": "pnpm@10.33.2"
+}
+```
+
