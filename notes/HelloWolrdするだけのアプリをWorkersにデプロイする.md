@@ -64,3 +64,7 @@ $ pnpm wrangler dev
 ```
 
 6. TBD
+
+## 参考
+- https://developers.cloudflare.com/workers/wrangler/configuration/
+- https://hono.dev/docs/getting-started/basic
